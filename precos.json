@@ -1,951 +1,951 @@
 {
-"updated": "2026-11-17",
-"fonte": "BH Brew → Piquiri",
-"items": [
-[
-"F|Pilsen|Agrária",
-9.19,
-"BH Brew",
-"1 kg R$ 9,19 (Piquiri promo R$ 7,99)",
-"2026-11-15"
-],
-[
-"F|Pale Ale|Agrária",
-11.76,
-"BH Brew",
-"1 kg R$ 11,76",
-"2026-11-15"
-],
-[
-"F|Viena|Agrária",
-12.99,
-"Piquiri",
-"1 kg R$ 12,99 (BH: sob consulta)",
-"2026-11-15"
-],
-[
-"F|Munique|Agrária",
-11.99,
-"Piquiri",
-"1 kg R$ 11,99 (BH: sob consulta)",
-"2026-11-15"
-],
-[
-"F|Trigo|Agrária",
-11.99,
-"Piquiri",
-"Trigo Claro 1 kg R$ 11,99 (BH: sob consulta)",
-"2026-11-15"
-],
-[
-"F|Caramelo 50|Agrária",
-15.99,
-"Piquiri",
-"Maltear Caramelo 60 (similar) 1 kg R$ 15,99",
-"2026-11-15"
-],
-[
-"F|Caramelo 120|Agrária",
-15.99,
-"Piquiri",
-"Maltear Caramelo 120 (similar) 1 kg R$ 15,99",
-"2026-11-15"
-],
-[
-"F|Pilsner|Weyermann",
-17.64,
-"BH Brew",
-"saca 25 kg R$ 441,00 ÷ 25 (Piquiri 1 kg R$ 15,99)",
-"2026-11-15"
-],
-[
-"F|Vienna|Weyermann",
-18.4,
-"BH Brew",
-"1 kg R$ 18,40 (Piquiri R$ 17,99)",
-"2026-11-15"
-],
-[
-"F|Munich I|Weyermann",
-16.99,
-"Piquiri",
-"1 kg R$ 16,99 (BH não tem)",
-"2026-11-15"
-],
-[
-"F|Munich II|Weyermann",
-16.99,
-"Piquiri",
-"1 kg R$ 16,99 (BH não tem)",
-"2026-11-15"
-],
-[
-"F|Pale Ale|Weyermann",
-17.99,
-"Piquiri",
-"1 kg R$ 17,99 (BH não tem)",
-"2026-11-15"
-],
-[
-"F|Pale Wheat (Trigo claro)|Weyermann",
-16.99,
-"Piquiri",
-"Trigo Claro 1 kg R$ 16,99 (BH: sob consulta)",
-"2026-11-15"
-],
-[
-"F|Carafoam|Weyermann",
-21.99,
-"Piquiri",
-"Carapils 1 kg R$ 21,99 (BH: sob consulta)",
-"2026-11-15"
-],
-[
-"F|Carahell|Weyermann",
-22.99,
-"Piquiri",
-"1 kg R$ 22,99 (BH: sob consulta)",
-"2026-11-15"
-],
-[
-"F|Carared|Weyermann",
-24.99,
-"Piquiri",
-"1 kg R$ 24,99 (BH: sob consulta)",
-"2026-11-16"
-],
-[
-"F|Caraamber|Weyermann",
-23.84,
-"BH Brew",
-"1 kg R$ 23,84",
-"2026-11-16"
-],
-[
-"F|Caramunich I|Weyermann",
-24.99,
-"Piquiri",
-"1 kg R$ 24,99 (BH: sob consulta)",
-"2026-11-16"
-],
-[
-"F|Caramunich II|Weyermann",
-24.99,
-"Piquiri",
-"1 kg R$ 24,99 (BH: sob consulta)",
-"2026-11-16"
-],
-[
-"F|Caramunich III|Weyermann",
-24.99,
-"Piquiri",
-"1 kg R$ 24,99 (BH: sob consulta)",
-"2026-11-16"
-],
-[
-"F|Caraaroma|Weyermann",
-29.09,
-"BH Brew",
-"1 kg R$ 29,09",
-"2026-11-16"
-],
-[
-"F|Melanoidin|Weyermann",
-21.99,
-"Piquiri",
-"Melanoidina 1 kg R$ 21,99 (BH: sob consulta)",
-"2026-11-16"
-],
-[
-"F|Acidulated (Acidificado)|Weyermann",
-29.99,
-"Piquiri",
-"1 kg R$ 29,99",
-"2026-11-16"
-],
-[
-"F|Carafa Special I|Weyermann",
-30.99,
-"Piquiri",
-"1 kg R$ 30,99",
-"2026-11-16"
-],
-[
-"F|Carafa Special II|Weyermann",
-26.15,
-"BH Brew",
-"1 kg R$ 26,15",
-"2026-11-16"
-],
-[
-"F|Carafa Special III|Weyermann",
-30.99,
-"Piquiri",
-"1 kg R$ 30,99",
-"2026-11-16"
-],
-[
-"F|Roasted Barley (Cevada torrada)|Weyermann",
-26.99,
-"Piquiri",
-"Cevada Torrada 1 kg R$ 26,99",
-"2026-11-16"
-],
-[
-"F|Abbey|Weyermann",
-19.32,
-"BH Brew",
-"Château Abbey (Weyermann Abbey não encontrado) 1 kg R$ 19,32",
-"2026-11-16"
-],
-[
-"F|Château Pale Ale|Castle Malting",
-17.69,
-"BH Brew",
-"1 kg R$ 17,69",
-"2026-11-16"
-],
-[
-"F|Château Cara Gold|Castle Malting",
-18.9,
-"BH Brew",
-"1 kg R$ 18,90",
-"2026-11-16"
-],
-[
-"F|Château Biscuit|Castle Malting",
-21.99,
-"Piquiri",
-"1 kg R$ 21,99 (BH: sob consulta)",
-"2026-11-16"
-],
-[
-"F|Château Chocolat|Castle Malting",
-23.99,
-"Piquiri",
-"1 kg R$ 23,99 (BH: sob consulta)",
-"2026-11-16"
-],
-[
-"F|Château Aromatic|Castle Malting",
-26.88,
-"BH Brew",
-"Château Arome 1 kg R$ 26,88",
-"2026-11-16"
-],
-[
-"F|Aromatic MD|Dingemans",
-26.88,
-"BH Brew",
-"Château Arome (equivalente) 1 kg R$ 26,88",
-"2026-11-16"
-],
-[
-"F|Maris Otter|Simpsons",
-16.8,
-"BH Brew",
-"Maris Otter Bairds (equivalente) 1 kg R$ 16,80",
-"2026-11-16"
-],
-[
-"F|Crystal Medium|Simpsons",
-19.99,
-"Piquiri",
-"Château Crystal (equivalente) 1 kg R$ 19,99",
-"2026-11-16"
-],
-[
-"F|Chocolate|Simpsons",
-23.99,
-"Piquiri",
-"Château Chocolate (equivalente) 1 kg R$ 23,99 (BH: sob consulta)",
-"2026-11-16"
-],
-[
-"F|Pilsen|Maltear",
-7.99,
-"Piquiri",
-"1 kg R$ 7,99 (promo; normal R$ 8,49)",
-"2026-11-16"
-],
-[
-"F|Caramelo 60|Maltear",
-15.99,
-"Piquiri",
-"1 kg R$ 15,99",
-"2026-11-16"
-],
-[
-"F|Château Melano|Castle Malting",
-19.99,
-"Piquiri",
-"1 kg R$ 19,99 (BH: sob consulta)",
-"2026-11-16"
-],
-[
-"F|Aveia em flocos|Genérico",
-17.96,
-"BH Brew",
-"1 kg R$ 17,96 (reconferido; Piquiri 1 kg R$ 10,99)",
-"2026-11-16"
-],
-[
-"F|Trigo em flocos|Genérico",
-16.7,
-"BH Brew",
-"1 kg R$ 16,70",
-"2026-11-16"
-],
-[
-"F|Cevada em flocos|Genérico",
-14.99,
-"Piquiri",
-"1 kg R$ 14,99",
-"2026-11-16"
-],
-[
-"F|Milho em flocos|Genérico",
-14,
-"Estimativa",
-"Piquiri: indisponível",
-"2026-11-16"
-],
-[
-"F|Extrato de malte seco claro|Genérico",
-53.34,
-"BH Brew",
-"DME 1 kg R$ 53,34 (cor não informada)",
-"2026-11-16"
-],
-[
-"F|Candi Syrup escuro|Genérico",
-130,
-"Estimativa",
-"Piquiri: D-45/D-90/D-180 indisponíveis; BH: não vende",
-"2026-11-17"
-],
-[
-"H|Citra",
-0.46,
-"BH Brew",
-"NP 50 g R$ 23,00",
-"2026-11-17"
-],
-[
-"H|Cascade",
-0.25,
-"BH Brew",
-"NP 50 g R$ 12,50",
-"2026-11-17"
-],
-[
-"H|Columbus (CTZ)",
-0.25,
-"BH Brew",
-"NP 50 g R$ 12,50",
-"2026-11-17"
-],
-[
-"H|Chinook",
-0.292,
-"BH Brew",
-"NP 50 g R$ 14,60",
-"2026-11-17"
-],
-[
-"H|Saaz",
-0.334,
-"BH Brew",
-"NP 50 g R$ 16,70",
-"2026-11-17"
-],
-[
-"H|Hallertau Mittelfrüh",
-0.334,
-"BH Brew",
-"NP 50 g R$ 16,70",
-"2026-11-17"
-],
-[
-"H|Tettnang",
-0.278,
-"BH Brew",
-"NP 50 g R$ 13,91",
-"2026-11-17"
-],
-[
-"H|Hallertau Magnum",
-0.174,
-"BH Brew",
-"NP 50 g R$ 8,72",
-"2026-11-17"
-],
-[
-"H|Mosaic",
-0.398,
-"BH Brew",
-"NP 50 g R$ 19,90",
-"2026-11-17"
-],
-[
-"H|Galaxy",
-0.475,
-"BH Brew",
-"NP 50 g R$ 23,73",
-"2026-11-17"
-],
-[
-"H|Motueka",
-0.414,
-"BH Brew",
-"NP 50 g R$ 20,69",
-"2026-11-17"
-],
-[
-"H|Northern Brewer",
-0.208,
-"BH Brew",
-"NP 50 g R$ 10,40",
-"2026-11-17"
-],
-[
-"H|Simcoe",
-0.63,
-"BH Brew",
-"50 g R$ 31,50 (Piquiri NP R$ 26,99)",
-"2026-11-17"
-],
-[
-"H|Nelson Sauvin",
-0.504,
-"BH Brew",
-"YCH R$ 25,20 (50 g, a confirmar)",
-"2026-11-17"
-],
-[
-"H|East Kent Goldings",
-0.435,
-"BH Brew",
-"50 g R$ 21,74",
-"2026-11-17"
-],
-[
-"H|Fuggle",
-0.439,
-"BH Brew",
-"50 g R$ 21,95",
-"2026-11-17"
-],
-[
-"H|Hallertau Hersbrucker",
-0.326,
-"BH Brew",
-"50 g R$ 16,28",
-"2026-11-17"
-],
-[
-"H|Perle",
-0.338,
-"BH Brew",
-"50 g R$ 16,91",
-"2026-11-17"
-],
-[
-"H|Hallertau Tradition",
-0.296,
-"BH Brew",
-"50 g R$ 14,81",
-"2026-11-17"
-],
-[
-"H|Amarillo",
-0.46,
-"Piquiri",
-"NP 50 g R$ 22,99 (BH: sob consulta)",
-"2026-11-17"
-],
-[
-"H|Centennial",
-0.3,
-"Piquiri",
-"NP 50 g R$ 14,99 (BH: sob consulta)",
-"2026-11-17"
-],
-[
-"H|Strata",
-0.58,
-"BH Brew",
-"50 g R$ 28,98",
-"2026-11-17"
-],
-[
-"H|Herkules",
-0.273,
-"BH Brew",
-"50 g R$ 13,65",
-"2026-11-17"
-],
-[
-"H|Styrian Goldings (Celeia)",
-0.334,
-"BH Brew",
-"Styrian Gold 50 g R$ 16,70",
-"2026-11-17"
-],
-[
-"H|Hallertau Blanc",
-0.286,
-"BH Brew",
-"50 g R$ 14,28",
-"2026-11-17"
-],
-[
-"H|Mandarina Bavaria",
-0.296,
-"BH Brew",
-"50 g R$ 14,81",
-"2026-11-17"
-],
-[
-"H|Warrior",
-0.441,
-"BH Brew",
-"50 g R$ 22,05",
-"2026-11-17"
-],
-[
-"H|Summit",
-0.357,
-"BH Brew",
-"50 g R$ 17,85",
-"2026-11-17"
-],
-[
-"H|Willamette",
-0.454,
-"BH Brew",
-"50 g R$ 22,68",
-"2026-11-17"
-],
-[
-"H|Ekuanot",
-0.407,
-"BH Brew",
-"50 g R$ 20,37",
-"2026-11-13"
-],
-[
-"H|El Dorado",
-0.443,
-"BH Brew",
-"YCH R$ 22,16",
-"2026-11-13"
-],
-[
-"H|Idaho 7",
-0.485,
-"BH Brew",
-"YCH R$ 24,26",
-"2026-11-13"
-],
-[
-"H|Sabro",
-0.479,
-"BH Brew",
-"YCH R$ 23,94",
-"2026-11-13"
-],
-[
-"H|Talus",
-0.529,
-"BH Brew",
-"YCH R$ 26,46",
-"2026-11-13"
-],
-[
-"H|Comet",
-0.344,
-"BH Brew",
-"R$ 17,22",
-"2026-11-13"
-],
-[
-"H|Polaris",
-0.37,
-"BH Brew",
-"R$ 18,48",
-"2026-11-13"
-],
-[
-"H|Cluster",
-0.294,
-"BH Brew",
-"R$ 14,70",
-"2026-11-13"
-],
-[
-"H|Nugget (US)",
-0.286,
-"BH Brew",
-"R$ 14,28",
-"2026-11-13"
-],
-[
-"H|Galena",
-0.342,
-"BH Brew",
-"R$ 17,12",
-"2026-11-13"
-],
-[
-"H|Sorachi Ace",
-0.542,
-"BH Brew",
-"R$ 27,10",
-"2026-11-13"
-],
-[
-"H|Ella",
-0.578,
-"BH Brew",
-"R$ 28,88",
-"2026-11-13"
-],
-[
-"H|Vic Secret",
-0.428,
-"BH Brew",
-"R$ 21,42",
-"2026-11-13"
-],
-[
-"H|Loral",
-0.38,
-"BH Brew",
-"R$ 19,01",
-"2026-11-13"
-],
-[
-"H|Liberty",
-0.47,
-"BH Brew",
-"R$ 23,52",
-"2026-11-13"
-],
-[
-"H|Callista",
-0.386,
-"BH Brew",
-"50 g R$ 19,32",
-"2026-11-14"
-],
-[
-"H|Ariana",
-0.326,
-"BH Brew",
-"R$ 16,28",
-"2026-11-14"
-],
-[
-"H|Bobek",
-0.466,
-"BH Brew",
-"50 g R$ 23,31",
-"2026-11-14"
-],
-[
-"H|Sladek",
-0.267,
-"BH Brew",
-"R$ 13,34",
-"2026-11-14"
-],
-[
-"H|Target",
-0.439,
-"BH Brew",
-"R$ 21,95",
-"2026-11-14"
-],
-[
-"H|Admiral",
-0.347,
-"BH Brew",
-"50 g R$ 17,33",
-"2026-11-14"
-],
-[
-"H|Spalter Select",
-0.504,
-"BH Brew",
-"BWS 25 g R$ 12,60",
-"2026-11-14"
-],
-[
-"H|Spalter",
-0.504,
-"BH Brew",
-"Spalter Select BWS 25 g",
-"2026-11-14"
-],
-[
-"H|Huell Melon",
-0.223,
-"BH Brew",
-"R$ 11,13",
-"2026-11-14"
-],
-[
-"H|Southern Cross",
-0.676,
-"BH Brew",
-"R$ 33,81",
-"2026-11-14"
-],
-[
-"H|Rakau",
-0.676,
-"BH Brew",
-"R$ 33,81",
-"2026-11-14"
-],
-[
-"H|Pacifica",
-0.676,
-"BH Brew",
-"R$ 33,81",
-"2026-11-14"
-],
-[
-"H|Wai-iti",
-0.676,
-"BH Brew",
-"R$ 33,81",
-"2026-11-14"
-],
-[
-"H|Bravo",
-0.389,
-"BH Brew",
-"R$ 19,43",
-"2026-11-14"
-],
-[
-"H|Kohia Nelson",
-0.64,
-"Piquiri",
-"NP 50 g R$ 31,99",
-"2026-11-14"
-],
-[
-"H|Cascade Brasil",
-0.26,
-"BH Brew",
-"Start Hops BR Cascade R$ 13,02",
-"2026-11-14"
-],
-[
-"H|Citra Cryo",
-1.03,
-"BH Brew",
-"YCH Cryo R$ 25,73 (embalagem a confirmar)",
-"2026-11-14"
-],
-[
-"H|Challenger",
-0.44,
-"Piquiri",
-"Barth Haas 50 g R$ 21,99 (BH: sob consulta)",
-"2026-11-14"
-],
-[
-"Y|SafAle US-05",
-24.99,
-"Piquiri",
-"sachê R$ 24,99 (BH: sob consulta)",
-"2026-11-14"
-],
-[
-"Y|SafAle S-04",
-22.99,
-"Piquiri",
-"sachê R$ 22,99 (BH: sob consulta)",
-"2026-11-14"
-],
-[
-"Y|SafLager W-34/70",
-39.99,
-"Piquiri",
-"sachê R$ 39,99 (não achado na BH)",
-"2026-11-14"
-],
-[
-"Y|SafLager S-189",
-39.99,
-"Piquiri",
-"sachê R$ 39,99 (não achado na BH)",
-"2026-11-14"
-],
-[
-"Y|SafAle S-33",
-20.99,
-"Piquiri",
-"sachê R$ 20,99 (não achado na BH)",
-"2026-11-14"
-],
-[
-"Y|SafAle T-58",
-17.49,
-"Piquiri",
-"sachê R$ 17,49 (não achado na BH)",
-"2026-11-14"
-],
-[
-"Y|SafAle K-97",
-27.21,
-"BH Brew",
-"11,5 g R$ 27,21",
-"2026-11-14"
-],
-[
-"Y|SafAle BE-134",
-34.97,
-"BH Brew",
-"11,5 g R$ 34,97",
-"2026-11-14"
-],
-[
-"Y|LalBrew Verdant IPA",
-35.18,
-"BH Brew",
-"11 g R$ 35,18 (sem estoque imediato)",
-"2026-11-14"
-],
-[
-"Y|LalBrew Munich Classic",
-35.18,
-"BH Brew",
-"11 g R$ 35,18",
-"2026-11-14"
-],
-[
-"Y|LalBrew BRY-97 West Coast",
-35.18,
-"BH Brew",
-"não achado em 14/11 (BH ausente, Piquiri indisponível); preço anterior",
-"2026-11-14"
-],
-[
-"Y|LalBrew Voss Kveik",
-35.18,
-"BH Brew",
-"não achado em 14/11 (BH ausente, Piquiri indisponível); preço anterior",
-"2026-11-14"
-],
-[
-"Y|LalBrew NovaLager",
-39.06,
-"BH Brew",
-"sachê R$ 39,06",
-"2026-11-15"
-],
-[
-"Y|LalBrew Nottingham",
-27.99,
-"Piquiri",
-"sachê R$ 27,99 (BH não tem)",
-"2026-11-15"
-],
-[
-"Y|SafAle WB-06",
-31.5,
-"BH Brew",
-"sachê \"a partir de\" R$ 31,50 (Piquiri R$ 30,99)",
-"2026-11-15"
-],
-[
-"Y|SafLager S-23",
-34.99,
-"Piquiri",
-"sachê R$ 34,99 (BH não tem)",
-"2026-11-15"
-],
-[
-"Y|AEB Fermoale AY3",
-17.01,
-"BH Brew",
-"sachê R$ 17,01",
-"2026-11-15"
-],
-[
-"Y|AEB Fermoale AY4",
-18.8,
-"BH Brew",
-"sachê R$ 18,80 (promo, de R$ 19,74)",
-"2026-11-15"
-],
-[
-"Y|AEB Fermolager W",
-18.5,
-"BH Brew",
-"sachê R$ 18,50",
-"2026-11-15"
-],
-[
-"Y|AEB Fermo Kveik SV",
-14.99,
-"Piquiri",
-"sachê 11,5 g R$ 14,99 (promo, de R$ 19,99)",
-"2026-11-15"
-],
-[
-"Y|AEB Fermoale",
-14.99,
-"Piquiri",
-"sachê 11,5 g R$ 14,99 (promo, de R$ 19,99)",
-"2026-11-15"
-],
-[
-"Y|AEB Fermoale Bel-Abbey",
-14.99,
-"Piquiri",
-"sachê 11,5 g R$ 14,99 (promo, de R$ 19,99)",
-"2026-11-15"
-],
-[
-"Y|AEB Fermoale Weisse",
-14.99,
-"Piquiri",
-"indisponível na Piquiri (sem preço) e não há na BH; preço anterior mantido",
-"2026-11-15"
-],
-[
-"Y|AEB Fermolager Crisp",
-18.99,
-"Piquiri",
-"sachê 11,5 g R$ 18,99 (promo, de R$ 22,99)",
-"2026-11-15"
-],
-[
-"Y|AEB Fermolager Munich Heritage",
-18.99,
-"Piquiri",
-"sachê 11,5 g R$ 18,99 (promo, de R$ 22,99)",
-"2026-11-15"
-],
-[
-"Y|AEB Fermo Brew Acid",
-24.99,
-"Piquiri",
-"sachê 11,5 g R$ 24,99 (promo, de R$ 29,99)",
-"2026-11-15"
-],
-[
-"Y|WLP001 California Ale",
-19.99,
-"Piquiri",
-"sachê seco 11 g R$ 19,99 (promo, de R$ 44,99)",
-"2026-11-15"
-]
-]
+ "updated": "2026-11-18",
+ "fonte": "BH Brew → Piquiri",
+ "items": [
+  [
+   "F|Pilsen|Agrária",
+   9.19,
+   "BH Brew",
+   "1 kg R$ 9,19 (Piquiri promo R$ 7,99)",
+   "2026-11-15"
+  ],
+  [
+   "F|Pale Ale|Agrária",
+   11.76,
+   "BH Brew",
+   "1 kg R$ 11,76",
+   "2026-11-15"
+  ],
+  [
+   "F|Viena|Agrária",
+   12.99,
+   "Piquiri",
+   "1 kg R$ 12,99 (BH: sob consulta)",
+   "2026-11-15"
+  ],
+  [
+   "F|Munique|Agrária",
+   11.99,
+   "Piquiri",
+   "1 kg R$ 11,99 (BH: sob consulta)",
+   "2026-11-15"
+  ],
+  [
+   "F|Trigo|Agrária",
+   11.99,
+   "Piquiri",
+   "Trigo Claro 1 kg R$ 11,99 (BH: sob consulta)",
+   "2026-11-15"
+  ],
+  [
+   "F|Caramelo 50|Agrária",
+   15.99,
+   "Piquiri",
+   "Maltear Caramelo 60 (similar) 1 kg R$ 15,99",
+   "2026-11-15"
+  ],
+  [
+   "F|Caramelo 120|Agrária",
+   15.99,
+   "Piquiri",
+   "Maltear Caramelo 120 (similar) 1 kg R$ 15,99",
+   "2026-11-15"
+  ],
+  [
+   "F|Pilsner|Weyermann",
+   17.64,
+   "BH Brew",
+   "saca 25 kg R$ 441,00 ÷ 25 (Piquiri 1 kg R$ 15,99)",
+   "2026-11-15"
+  ],
+  [
+   "F|Vienna|Weyermann",
+   18.4,
+   "BH Brew",
+   "1 kg R$ 18,40 (Piquiri R$ 17,99)",
+   "2026-11-15"
+  ],
+  [
+   "F|Munich I|Weyermann",
+   16.99,
+   "Piquiri",
+   "1 kg R$ 16,99 (BH não tem)",
+   "2026-11-15"
+  ],
+  [
+   "F|Munich II|Weyermann",
+   16.99,
+   "Piquiri",
+   "1 kg R$ 16,99 (BH não tem)",
+   "2026-11-15"
+  ],
+  [
+   "F|Pale Ale|Weyermann",
+   17.99,
+   "Piquiri",
+   "1 kg R$ 17,99 (BH não tem)",
+   "2026-11-15"
+  ],
+  [
+   "F|Pale Wheat (Trigo claro)|Weyermann",
+   16.99,
+   "Piquiri",
+   "Trigo Claro 1 kg R$ 16,99 (BH: sob consulta)",
+   "2026-11-15"
+  ],
+  [
+   "F|Carafoam|Weyermann",
+   21.99,
+   "Piquiri",
+   "Carapils 1 kg R$ 21,99 (BH: sob consulta)",
+   "2026-11-15"
+  ],
+  [
+   "F|Carahell|Weyermann",
+   22.99,
+   "Piquiri",
+   "1 kg R$ 22,99 (BH: sob consulta)",
+   "2026-11-15"
+  ],
+  [
+   "F|Carared|Weyermann",
+   24.99,
+   "Piquiri",
+   "1 kg R$ 24,99 (BH: sob consulta)",
+   "2026-11-16"
+  ],
+  [
+   "F|Caraamber|Weyermann",
+   23.84,
+   "BH Brew",
+   "1 kg R$ 23,84",
+   "2026-11-16"
+  ],
+  [
+   "F|Caramunich I|Weyermann",
+   24.99,
+   "Piquiri",
+   "1 kg R$ 24,99 (BH: sob consulta)",
+   "2026-11-16"
+  ],
+  [
+   "F|Caramunich II|Weyermann",
+   24.99,
+   "Piquiri",
+   "1 kg R$ 24,99 (BH: sob consulta)",
+   "2026-11-16"
+  ],
+  [
+   "F|Caramunich III|Weyermann",
+   24.99,
+   "Piquiri",
+   "1 kg R$ 24,99 (BH: sob consulta)",
+   "2026-11-16"
+  ],
+  [
+   "F|Caraaroma|Weyermann",
+   29.09,
+   "BH Brew",
+   "1 kg R$ 29,09",
+   "2026-11-16"
+  ],
+  [
+   "F|Melanoidin|Weyermann",
+   21.99,
+   "Piquiri",
+   "Melanoidina 1 kg R$ 21,99 (BH: sob consulta)",
+   "2026-11-16"
+  ],
+  [
+   "F|Acidulated (Acidificado)|Weyermann",
+   29.99,
+   "Piquiri",
+   "1 kg R$ 29,99",
+   "2026-11-16"
+  ],
+  [
+   "F|Carafa Special I|Weyermann",
+   30.99,
+   "Piquiri",
+   "1 kg R$ 30,99",
+   "2026-11-16"
+  ],
+  [
+   "F|Carafa Special II|Weyermann",
+   26.15,
+   "BH Brew",
+   "1 kg R$ 26,15",
+   "2026-11-16"
+  ],
+  [
+   "F|Carafa Special III|Weyermann",
+   30.99,
+   "Piquiri",
+   "1 kg R$ 30,99",
+   "2026-11-16"
+  ],
+  [
+   "F|Roasted Barley (Cevada torrada)|Weyermann",
+   26.99,
+   "Piquiri",
+   "Cevada Torrada 1 kg R$ 26,99",
+   "2026-11-16"
+  ],
+  [
+   "F|Abbey|Weyermann",
+   19.32,
+   "BH Brew",
+   "Château Abbey (Weyermann Abbey não encontrado) 1 kg R$ 19,32",
+   "2026-11-16"
+  ],
+  [
+   "F|Château Pale Ale|Castle Malting",
+   17.69,
+   "BH Brew",
+   "1 kg R$ 17,69",
+   "2026-11-16"
+  ],
+  [
+   "F|Château Cara Gold|Castle Malting",
+   18.9,
+   "BH Brew",
+   "1 kg R$ 18,90",
+   "2026-11-16"
+  ],
+  [
+   "F|Château Biscuit|Castle Malting",
+   21.99,
+   "Piquiri",
+   "1 kg R$ 21,99 (BH: sob consulta)",
+   "2026-11-16"
+  ],
+  [
+   "F|Château Chocolat|Castle Malting",
+   23.99,
+   "Piquiri",
+   "1 kg R$ 23,99 (BH: sob consulta)",
+   "2026-11-16"
+  ],
+  [
+   "F|Château Aromatic|Castle Malting",
+   26.88,
+   "BH Brew",
+   "Château Arome 1 kg R$ 26,88",
+   "2026-11-16"
+  ],
+  [
+   "F|Aromatic MD|Dingemans",
+   26.88,
+   "BH Brew",
+   "Château Arome (equivalente) 1 kg R$ 26,88",
+   "2026-11-16"
+  ],
+  [
+   "F|Maris Otter|Simpsons",
+   16.8,
+   "BH Brew",
+   "Maris Otter Bairds (equivalente) 1 kg R$ 16,80",
+   "2026-11-16"
+  ],
+  [
+   "F|Crystal Medium|Simpsons",
+   19.99,
+   "Piquiri",
+   "Château Crystal (equivalente) 1 kg R$ 19,99",
+   "2026-11-16"
+  ],
+  [
+   "F|Chocolate|Simpsons",
+   23.99,
+   "Piquiri",
+   "Château Chocolate (equivalente) 1 kg R$ 23,99 (BH: sob consulta)",
+   "2026-11-16"
+  ],
+  [
+   "F|Pilsen|Maltear",
+   7.99,
+   "Piquiri",
+   "1 kg R$ 7,99 (promo; normal R$ 8,49)",
+   "2026-11-16"
+  ],
+  [
+   "F|Caramelo 60|Maltear",
+   15.99,
+   "Piquiri",
+   "1 kg R$ 15,99",
+   "2026-11-16"
+  ],
+  [
+   "F|Château Melano|Castle Malting",
+   19.99,
+   "Piquiri",
+   "1 kg R$ 19,99 (BH: sob consulta)",
+   "2026-11-16"
+  ],
+  [
+   "F|Aveia em flocos|Genérico",
+   17.96,
+   "BH Brew",
+   "1 kg R$ 17,96 (reconferido; Piquiri 1 kg R$ 10,99)",
+   "2026-11-16"
+  ],
+  [
+   "F|Trigo em flocos|Genérico",
+   16.7,
+   "BH Brew",
+   "1 kg R$ 16,70",
+   "2026-11-16"
+  ],
+  [
+   "F|Cevada em flocos|Genérico",
+   14.99,
+   "Piquiri",
+   "1 kg R$ 14,99",
+   "2026-11-16"
+  ],
+  [
+   "F|Milho em flocos|Genérico",
+   14,
+   "Estimativa",
+   "Piquiri: indisponível",
+   "2026-11-16"
+  ],
+  [
+   "F|Extrato de malte seco claro|Genérico",
+   53.34,
+   "BH Brew",
+   "DME 1 kg R$ 53,34 (cor não informada)",
+   "2026-11-16"
+  ],
+  [
+   "F|Candi Syrup escuro|Genérico",
+   130,
+   "Estimativa",
+   "Piquiri: D-45/D-90/D-180 indisponíveis; BH: não vende",
+   "2026-11-17"
+  ],
+  [
+   "H|Citra",
+   0.46,
+   "BH Brew",
+   "NP 50 g R$ 23,00",
+   "2026-11-17"
+  ],
+  [
+   "H|Cascade",
+   0.25,
+   "BH Brew",
+   "NP 50 g R$ 12,50",
+   "2026-11-17"
+  ],
+  [
+   "H|Columbus (CTZ)",
+   0.25,
+   "BH Brew",
+   "NP 50 g R$ 12,50",
+   "2026-11-17"
+  ],
+  [
+   "H|Chinook",
+   0.292,
+   "BH Brew",
+   "NP 50 g R$ 14,60",
+   "2026-11-17"
+  ],
+  [
+   "H|Saaz",
+   0.334,
+   "BH Brew",
+   "NP 50 g R$ 16,70",
+   "2026-11-17"
+  ],
+  [
+   "H|Hallertau Mittelfrüh",
+   0.334,
+   "BH Brew",
+   "NP 50 g R$ 16,70",
+   "2026-11-17"
+  ],
+  [
+   "H|Tettnang",
+   0.278,
+   "BH Brew",
+   "NP 50 g R$ 13,91",
+   "2026-11-17"
+  ],
+  [
+   "H|Hallertau Magnum",
+   0.174,
+   "BH Brew",
+   "NP 50 g R$ 8,72",
+   "2026-11-17"
+  ],
+  [
+   "H|Mosaic",
+   0.398,
+   "BH Brew",
+   "NP 50 g R$ 19,90",
+   "2026-11-17"
+  ],
+  [
+   "H|Galaxy",
+   0.475,
+   "BH Brew",
+   "NP 50 g R$ 23,73",
+   "2026-11-17"
+  ],
+  [
+   "H|Motueka",
+   0.414,
+   "BH Brew",
+   "NP 50 g R$ 20,69",
+   "2026-11-17"
+  ],
+  [
+   "H|Northern Brewer",
+   0.208,
+   "BH Brew",
+   "NP 50 g R$ 10,40",
+   "2026-11-17"
+  ],
+  [
+   "H|Simcoe",
+   0.63,
+   "BH Brew",
+   "50 g R$ 31,50 (Piquiri NP R$ 26,99)",
+   "2026-11-17"
+  ],
+  [
+   "H|Nelson Sauvin",
+   0.504,
+   "BH Brew",
+   "YCH R$ 25,20 (50 g, a confirmar)",
+   "2026-11-17"
+  ],
+  [
+   "H|East Kent Goldings",
+   0.435,
+   "BH Brew",
+   "50 g R$ 21,74",
+   "2026-11-17"
+  ],
+  [
+   "H|Fuggle",
+   0.439,
+   "BH Brew",
+   "50 g R$ 21,95",
+   "2026-11-17"
+  ],
+  [
+   "H|Hallertau Hersbrucker",
+   0.326,
+   "BH Brew",
+   "50 g R$ 16,28",
+   "2026-11-17"
+  ],
+  [
+   "H|Perle",
+   0.338,
+   "BH Brew",
+   "50 g R$ 16,91",
+   "2026-11-17"
+  ],
+  [
+   "H|Hallertau Tradition",
+   0.296,
+   "BH Brew",
+   "50 g R$ 14,81",
+   "2026-11-17"
+  ],
+  [
+   "H|Amarillo",
+   0.46,
+   "Piquiri",
+   "NP 50 g R$ 22,99 (BH: sob consulta)",
+   "2026-11-17"
+  ],
+  [
+   "H|Centennial",
+   0.3,
+   "Piquiri",
+   "NP 50 g R$ 14,99 (BH: sob consulta)",
+   "2026-11-17"
+  ],
+  [
+   "H|Strata",
+   0.58,
+   "BH Brew",
+   "50 g R$ 28,98",
+   "2026-11-17"
+  ],
+  [
+   "H|Herkules",
+   0.273,
+   "BH Brew",
+   "50 g R$ 13,65",
+   "2026-11-17"
+  ],
+  [
+   "H|Styrian Goldings (Celeia)",
+   0.334,
+   "BH Brew",
+   "Styrian Gold 50 g R$ 16,70",
+   "2026-11-17"
+  ],
+  [
+   "H|Hallertau Blanc",
+   0.286,
+   "BH Brew",
+   "50 g R$ 14,28",
+   "2026-11-17"
+  ],
+  [
+   "H|Mandarina Bavaria",
+   0.296,
+   "BH Brew",
+   "50 g R$ 14,81",
+   "2026-11-17"
+  ],
+  [
+   "H|Warrior",
+   0.441,
+   "BH Brew",
+   "50 g R$ 22,05",
+   "2026-11-17"
+  ],
+  [
+   "H|Summit",
+   0.357,
+   "BH Brew",
+   "50 g R$ 17,85",
+   "2026-11-17"
+  ],
+  [
+   "H|Willamette",
+   0.454,
+   "BH Brew",
+   "50 g R$ 22,68",
+   "2026-11-17"
+  ],
+  [
+   "H|Ekuanot",
+   0.462,
+   "BH Brew",
+   "50 g R$ 23,10",
+   "2026-11-18"
+  ],
+  [
+   "H|El Dorado",
+   0.443,
+   "BH Brew",
+   "YCH R$ 22,16",
+   "2026-11-18"
+  ],
+  [
+   "H|Idaho 7",
+   0.542,
+   "BH Brew",
+   "YCH 50 g R$ 27,09",
+   "2026-11-18"
+  ],
+  [
+   "H|Sabro",
+   0.521,
+   "BH Brew",
+   "50 g R$ 26,04",
+   "2026-11-18"
+  ],
+  [
+   "H|Talus",
+   0.529,
+   "BH Brew",
+   "YCH R$ 26,46",
+   "2026-11-18"
+  ],
+  [
+   "H|Comet",
+   0.5,
+   "BH Brew",
+   "50 g R$ 24,99",
+   "2026-11-18"
+  ],
+  [
+   "H|Polaris",
+   0.37,
+   "BH Brew",
+   "50 g R$ 18,48",
+   "2026-11-18"
+  ],
+  [
+   "H|Cluster",
+   0.294,
+   "BH Brew",
+   "50 g R$ 14,70",
+   "2026-11-18"
+  ],
+  [
+   "H|Nugget (US)",
+   0.286,
+   "BH Brew",
+   "50 g R$ 14,28",
+   "2026-11-18"
+  ],
+  [
+   "H|Galena",
+   0.342,
+   "BH Brew",
+   "50 g R$ 17,12",
+   "2026-11-18"
+  ],
+  [
+   "H|Sorachi Ace",
+   0.33,
+   "BH Brew",
+   "YCH 28,3 g R$ 9,35 (6 dias úteis)",
+   "2026-11-18"
+  ],
+  [
+   "H|Ella",
+   0.578,
+   "BH Brew",
+   "R$ 28,88",
+   "2026-11-18"
+  ],
+  [
+   "H|Vic Secret",
+   0.428,
+   "BH Brew",
+   "50 g R$ 21,42",
+   "2026-11-18"
+  ],
+  [
+   "H|Loral",
+   0.38,
+   "BH Brew",
+   "R$ 19,01",
+   "2026-11-18"
+  ],
+  [
+   "H|Liberty",
+   0.47,
+   "BH Brew",
+   "50 g R$ 23,52",
+   "2026-11-18"
+  ],
+  [
+   "H|Callista",
+   0.386,
+   "BH Brew",
+   "50 g R$ 19,32",
+   "2026-11-18"
+  ],
+  [
+   "H|Ariana",
+   0.326,
+   "BH Brew",
+   "R$ 16,28",
+   "2026-11-18"
+  ],
+  [
+   "H|Bobek",
+   0.466,
+   "BH Brew",
+   "50 g R$ 23,31",
+   "2026-11-18"
+  ],
+  [
+   "H|Sladek",
+   0.384,
+   "BH Brew",
+   "BWS 25 g R$ 9,61 (6 dias úteis)",
+   "2026-11-18"
+  ],
+  [
+   "H|Target",
+   0.395,
+   "BH Brew",
+   "50 g R$ 19,74",
+   "2026-11-18"
+  ],
+  [
+   "H|Admiral",
+   0.347,
+   "BH Brew",
+   "50 g R$ 17,33",
+   "2026-11-18"
+  ],
+  [
+   "H|Spalter Select",
+   0.504,
+   "BH Brew",
+   "BWS 25 g R$ 12,60",
+   "2026-11-18"
+  ],
+  [
+   "H|Spalter",
+   0.504,
+   "BH Brew",
+   "Spalter Select BWS 25 g",
+   "2026-11-18"
+  ],
+  [
+   "H|Huell Melon",
+   0.223,
+   "BH Brew",
+   "R$ 11,13",
+   "2026-11-18"
+  ],
+  [
+   "H|Southern Cross",
+   0.676,
+   "BH Brew",
+   "50 g R$ 33,81",
+   "2026-11-18"
+  ],
+  [
+   "H|Rakau",
+   0.676,
+   "BH Brew",
+   "R$ 33,81",
+   "2026-11-18"
+  ],
+  [
+   "H|Pacifica",
+   0.676,
+   "BH Brew",
+   "R$ 33,81",
+   "2026-11-18"
+  ],
+  [
+   "H|Wai-iti",
+   0.676,
+   "BH Brew",
+   "50 g R$ 33,81",
+   "2026-11-18"
+  ],
+  [
+   "H|Bravo",
+   0.389,
+   "BH Brew",
+   "R$ 19,43",
+   "2026-11-18"
+  ],
+  [
+   "H|Kohia Nelson",
+   0.64,
+   "Piquiri",
+   "NP 50 g R$ 31,99",
+   "2026-11-18"
+  ],
+  [
+   "H|Cascade Brasil",
+   0.26,
+   "BH Brew",
+   "Start Hops BR Cascade R$ 13,02",
+   "2026-11-14"
+  ],
+  [
+   "H|Citra Cryo",
+   1.03,
+   "BH Brew",
+   "YCH Cryo R$ 25,73 (embalagem a confirmar)",
+   "2026-11-14"
+  ],
+  [
+   "H|Challenger",
+   0.44,
+   "Piquiri",
+   "Barth Haas 50 g R$ 21,99 (BH: sob consulta)",
+   "2026-11-14"
+  ],
+  [
+   "Y|SafAle US-05",
+   24.99,
+   "Piquiri",
+   "sachê R$ 24,99 (BH: sob consulta)",
+   "2026-11-14"
+  ],
+  [
+   "Y|SafAle S-04",
+   22.99,
+   "Piquiri",
+   "sachê R$ 22,99 (BH: sob consulta)",
+   "2026-11-14"
+  ],
+  [
+   "Y|SafLager W-34/70",
+   39.99,
+   "Piquiri",
+   "sachê R$ 39,99 (não achado na BH)",
+   "2026-11-14"
+  ],
+  [
+   "Y|SafLager S-189",
+   39.99,
+   "Piquiri",
+   "sachê R$ 39,99 (não achado na BH)",
+   "2026-11-14"
+  ],
+  [
+   "Y|SafAle S-33",
+   20.99,
+   "Piquiri",
+   "sachê R$ 20,99 (não achado na BH)",
+   "2026-11-14"
+  ],
+  [
+   "Y|SafAle T-58",
+   17.49,
+   "Piquiri",
+   "sachê R$ 17,49 (não achado na BH)",
+   "2026-11-14"
+  ],
+  [
+   "Y|SafAle K-97",
+   27.21,
+   "BH Brew",
+   "11,5 g R$ 27,21",
+   "2026-11-14"
+  ],
+  [
+   "Y|SafAle BE-134",
+   34.97,
+   "BH Brew",
+   "11,5 g R$ 34,97",
+   "2026-11-14"
+  ],
+  [
+   "Y|LalBrew Verdant IPA",
+   35.18,
+   "BH Brew",
+   "11 g R$ 35,18 (sem estoque imediato)",
+   "2026-11-14"
+  ],
+  [
+   "Y|LalBrew Munich Classic",
+   35.18,
+   "BH Brew",
+   "11 g R$ 35,18",
+   "2026-11-14"
+  ],
+  [
+   "Y|LalBrew BRY-97 West Coast",
+   35.18,
+   "BH Brew",
+   "não achado em 14/11 (BH ausente, Piquiri indisponível); preço anterior",
+   "2026-11-14"
+  ],
+  [
+   "Y|LalBrew Voss Kveik",
+   35.18,
+   "BH Brew",
+   "não achado em 14/11 (BH ausente, Piquiri indisponível); preço anterior",
+   "2026-11-14"
+  ],
+  [
+   "Y|LalBrew NovaLager",
+   39.06,
+   "BH Brew",
+   "sachê R$ 39,06",
+   "2026-11-15"
+  ],
+  [
+   "Y|LalBrew Nottingham",
+   27.99,
+   "Piquiri",
+   "sachê R$ 27,99 (BH não tem)",
+   "2026-11-15"
+  ],
+  [
+   "Y|SafAle WB-06",
+   31.5,
+   "BH Brew",
+   "sachê \"a partir de\" R$ 31,50 (Piquiri R$ 30,99)",
+   "2026-11-15"
+  ],
+  [
+   "Y|SafLager S-23",
+   34.99,
+   "Piquiri",
+   "sachê R$ 34,99 (BH não tem)",
+   "2026-11-15"
+  ],
+  [
+   "Y|AEB Fermoale AY3",
+   17.01,
+   "BH Brew",
+   "sachê R$ 17,01",
+   "2026-11-15"
+  ],
+  [
+   "Y|AEB Fermoale AY4",
+   18.8,
+   "BH Brew",
+   "sachê R$ 18,80 (promo, de R$ 19,74)",
+   "2026-11-15"
+  ],
+  [
+   "Y|AEB Fermolager W",
+   18.5,
+   "BH Brew",
+   "sachê R$ 18,50",
+   "2026-11-15"
+  ],
+  [
+   "Y|AEB Fermo Kveik SV",
+   14.99,
+   "Piquiri",
+   "sachê 11,5 g R$ 14,99 (promo, de R$ 19,99)",
+   "2026-11-15"
+  ],
+  [
+   "Y|AEB Fermoale",
+   14.99,
+   "Piquiri",
+   "sachê 11,5 g R$ 14,99 (promo, de R$ 19,99)",
+   "2026-11-15"
+  ],
+  [
+   "Y|AEB Fermoale Bel-Abbey",
+   14.99,
+   "Piquiri",
+   "sachê 11,5 g R$ 14,99 (promo, de R$ 19,99)",
+   "2026-11-15"
+  ],
+  [
+   "Y|AEB Fermoale Weisse",
+   14.99,
+   "Piquiri",
+   "indisponível na Piquiri (sem preço) e não há na BH; preço anterior mantido",
+   "2026-11-15"
+  ],
+  [
+   "Y|AEB Fermolager Crisp",
+   18.99,
+   "Piquiri",
+   "sachê 11,5 g R$ 18,99 (promo, de R$ 22,99)",
+   "2026-11-15"
+  ],
+  [
+   "Y|AEB Fermolager Munich Heritage",
+   18.99,
+   "Piquiri",
+   "sachê 11,5 g R$ 18,99 (promo, de R$ 22,99)",
+   "2026-11-15"
+  ],
+  [
+   "Y|AEB Fermo Brew Acid",
+   24.99,
+   "Piquiri",
+   "sachê 11,5 g R$ 24,99 (promo, de R$ 29,99)",
+   "2026-11-15"
+  ],
+  [
+   "Y|WLP001 California Ale",
+   19.99,
+   "Piquiri",
+   "sachê seco 11 g R$ 19,99 (promo, de R$ 44,99)",
+   "2026-11-15"
+  ]
+ ]
 }
