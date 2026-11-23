@@ -1,5 +1,4 @@
 {
- "updated": "2026-11-18",
  "fonte": "BH Brew → Piquiri",
  "items": [
   [
@@ -7,105 +6,105 @@
    9.19,
    "BH Brew",
    "1 kg R$ 9,19 (Piquiri promo R$ 7,99)",
-   "2026-11-15"
+   "2026-11-23"
   ],
   [
    "F|Pale Ale|Agrária",
    11.76,
    "BH Brew",
    "1 kg R$ 11,76",
-   "2026-11-15"
+   "2026-11-23"
   ],
   [
    "F|Viena|Agrária",
    12.99,
    "Piquiri",
    "1 kg R$ 12,99 (BH: sob consulta)",
-   "2026-11-15"
+   "2026-11-23"
   ],
   [
    "F|Munique|Agrária",
    11.99,
    "Piquiri",
    "1 kg R$ 11,99 (BH: sob consulta)",
-   "2026-11-15"
+   "2026-11-23"
   ],
   [
    "F|Trigo|Agrária",
    11.99,
    "Piquiri",
    "Trigo Claro 1 kg R$ 11,99 (BH: sob consulta)",
-   "2026-11-15"
+   "2026-11-23"
   ],
   [
    "F|Caramelo 50|Agrária",
    15.99,
    "Piquiri",
    "Maltear Caramelo 60 (similar) 1 kg R$ 15,99",
-   "2026-11-15"
+   "2026-11-23"
   ],
   [
    "F|Caramelo 120|Agrária",
    15.99,
    "Piquiri",
    "Maltear Caramelo 120 (similar) 1 kg R$ 15,99",
-   "2026-11-15"
+   "2026-11-23"
   ],
   [
    "F|Pilsner|Weyermann",
    17.64,
    "BH Brew",
    "saca 25 kg R$ 441,00 ÷ 25 (Piquiri 1 kg R$ 15,99)",
-   "2026-11-15"
+   "2026-11-23"
   ],
   [
    "F|Vienna|Weyermann",
    18.4,
    "BH Brew",
    "1 kg R$ 18,40 (Piquiri R$ 17,99)",
-   "2026-11-15"
+   "2026-11-23"
   ],
   [
    "F|Munich I|Weyermann",
    16.99,
    "Piquiri",
    "1 kg R$ 16,99 (BH não tem)",
-   "2026-11-15"
+   "2026-11-23"
   ],
   [
    "F|Munich II|Weyermann",
    16.99,
    "Piquiri",
    "1 kg R$ 16,99 (BH não tem)",
-   "2026-11-15"
+   "2026-11-23"
   ],
   [
    "F|Pale Ale|Weyermann",
    17.99,
    "Piquiri",
    "1 kg R$ 17,99 (BH não tem)",
-   "2026-11-15"
+   "2026-11-23"
   ],
   [
    "F|Pale Wheat (Trigo claro)|Weyermann",
    16.99,
    "Piquiri",
    "Trigo Claro 1 kg R$ 16,99 (BH: sob consulta)",
-   "2026-11-15"
+   "2026-11-23"
   ],
   [
    "F|Carafoam|Weyermann",
    21.99,
    "Piquiri",
    "Carapils 1 kg R$ 21,99 (BH: sob consulta)",
-   "2026-11-15"
+   "2026-11-23"
   ],
   [
    "F|Carahell|Weyermann",
    22.99,
    "Piquiri",
    "1 kg R$ 22,99 (BH: sob consulta)",
-   "2026-11-15"
+   "2026-11-23"
   ],
   [
    "F|Carared|Weyermann",
@@ -739,108 +738,108 @@
   ],
   [
    "H|Cascade Brasil",
-   0.26,
-   "BH Brew",
-   "Start Hops BR Cascade R$ 13,02",
-   "2026-11-14"
+   0.34,
+   "Piquiri",
+   "Start Hops BR Cascade 50 g R$ 16,99 (BH não tem mais)",
+   "2026-11-23"
   ],
   [
    "H|Citra Cryo",
    1.03,
    "BH Brew",
-   "YCH Cryo R$ 25,73 (embalagem a confirmar)",
-   "2026-11-14"
+   "YCH Cryo 25 g R$ 25,73",
+   "2026-11-23"
   ],
   [
    "H|Challenger",
    0.44,
    "Piquiri",
-   "Barth Haas 50 g R$ 21,99 (BH: sob consulta)",
-   "2026-11-14"
+   "Barth Haas 50 g R$ 21,99 (BH não tem)",
+   "2026-11-23"
   ],
   [
    "Y|SafAle US-05",
-   24.99,
-   "Piquiri",
-   "sachê R$ 24,99 (BH: sob consulta)",
-   "2026-11-14"
+   27.3,
+   "BH Brew",
+   "sachê 11,5 g R$ 27,30",
+   "2026-11-23"
   ],
   [
    "Y|SafAle S-04",
-   22.99,
-   "Piquiri",
-   "sachê R$ 22,99 (BH: sob consulta)",
-   "2026-11-14"
+   26.36,
+   "BH Brew",
+   "sachê 11,5 g R$ 26,36",
+   "2026-11-23"
   ],
   [
    "Y|SafLager W-34/70",
-   39.99,
-   "Piquiri",
-   "sachê R$ 39,99 (não achado na BH)",
-   "2026-11-14"
+   49.97,
+   "BH Brew",
+   "sachê 11,5 g R$ 49,97",
+   "2026-11-23"
   ],
   [
    "Y|SafLager S-189",
-   39.99,
-   "Piquiri",
-   "sachê R$ 39,99 (não achado na BH)",
-   "2026-11-14"
+   45.0,
+   "BH Brew",
+   "sachê 11,5 g R$ 45,00",
+   "2026-11-23"
   ],
   [
    "Y|SafAle S-33",
-   20.99,
-   "Piquiri",
-   "sachê R$ 20,99 (não achado na BH)",
-   "2026-11-14"
+   21.9,
+   "BH Brew",
+   "sachê 11,5 g R$ 21,90",
+   "2026-11-23"
   ],
   [
    "Y|SafAle T-58",
-   17.49,
-   "Piquiri",
-   "sachê R$ 17,49 (não achado na BH)",
-   "2026-11-14"
+   17.0,
+   "BH Brew",
+   "sachê 11,5 g R$ 17,00",
+   "2026-11-23"
   ],
   [
    "Y|SafAle K-97",
    27.21,
    "BH Brew",
    "11,5 g R$ 27,21",
-   "2026-11-14"
+   "2026-11-23"
   ],
   [
    "Y|SafAle BE-134",
    34.97,
    "BH Brew",
    "11,5 g R$ 34,97",
-   "2026-11-14"
+   "2026-11-23"
   ],
   [
    "Y|LalBrew Verdant IPA",
    35.18,
    "BH Brew",
-   "11 g R$ 35,18 (sem estoque imediato)",
-   "2026-11-14"
+   "11 g R$ 35,18 (estoque em 6 dias úteis)",
+   "2026-11-23"
   ],
   [
    "Y|LalBrew Munich Classic",
    35.18,
    "BH Brew",
-   "11 g R$ 35,18",
-   "2026-11-14"
+   "11 g R$ 35,18 (estoque em 6 dias úteis)",
+   "2026-11-23"
   ],
   [
    "Y|LalBrew BRY-97 West Coast",
    35.18,
    "BH Brew",
-   "não achado em 14/11 (BH ausente, Piquiri indisponível); preço anterior",
-   "2026-11-14"
+   "11 g R$ 35,18",
+   "2026-11-23"
   ],
   [
    "Y|LalBrew Voss Kveik",
    35.18,
    "BH Brew",
-   "não achado em 14/11 (BH ausente, Piquiri indisponível); preço anterior",
-   "2026-11-14"
+   "11 g R$ 35,18",
+   "2026-11-23"
   ],
   [
    "Y|LalBrew NovaLager",
@@ -947,5 +946,6 @@
    "sachê seco 11 g R$ 19,99 (promo, de R$ 44,99)",
    "2026-11-15"
   ]
- ]
+ ],
+ "updated": "2026-11-23"
 }
