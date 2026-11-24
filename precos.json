@@ -111,105 +111,105 @@
    24.99,
    "Piquiri",
    "1 kg R$ 24,99 (BH: sob consulta)",
-   "2026-11-16"
+   "2026-11-24"
   ],
   [
    "F|Caraamber|Weyermann",
    23.84,
    "BH Brew",
    "1 kg R$ 23,84",
-   "2026-11-16"
+   "2026-11-24"
   ],
   [
    "F|Caramunich I|Weyermann",
    24.99,
    "Piquiri",
    "1 kg R$ 24,99 (BH: sob consulta)",
-   "2026-11-16"
+   "2026-11-24"
   ],
   [
    "F|Caramunich II|Weyermann",
-   24.99,
-   "Piquiri",
-   "1 kg R$ 24,99 (BH: sob consulta)",
-   "2026-11-16"
+   23.94,
+   "BH Brew",
+   "1 kg R$ 23,94 (Piquiri R$ 24,99)",
+   "2026-11-24"
   ],
   [
    "F|Caramunich III|Weyermann",
    24.99,
    "Piquiri",
    "1 kg R$ 24,99 (BH: sob consulta)",
-   "2026-11-16"
+   "2026-11-24"
   ],
   [
    "F|Caraaroma|Weyermann",
    29.09,
    "BH Brew",
    "1 kg R$ 29,09",
-   "2026-11-16"
+   "2026-11-24"
   ],
   [
    "F|Melanoidin|Weyermann",
    21.99,
    "Piquiri",
    "Melanoidina 1 kg R$ 21,99 (BH: sob consulta)",
-   "2026-11-16"
+   "2026-11-24"
   ],
   [
    "F|Acidulated (Acidificado)|Weyermann",
    29.99,
    "Piquiri",
    "1 kg R$ 29,99",
-   "2026-11-16"
+   "2026-11-24"
   ],
   [
    "F|Carafa Special I|Weyermann",
    30.99,
    "Piquiri",
    "1 kg R$ 30,99",
-   "2026-11-16"
+   "2026-11-24"
   ],
   [
    "F|Carafa Special II|Weyermann",
    26.15,
    "BH Brew",
    "1 kg R$ 26,15",
-   "2026-11-16"
+   "2026-11-24"
   ],
   [
    "F|Carafa Special III|Weyermann",
    30.99,
    "Piquiri",
    "1 kg R$ 30,99",
-   "2026-11-16"
+   "2026-11-24"
   ],
   [
    "F|Roasted Barley (Cevada torrada)|Weyermann",
    26.99,
    "Piquiri",
    "Cevada Torrada 1 kg R$ 26,99",
-   "2026-11-16"
+   "2026-11-24"
   ],
   [
    "F|Abbey|Weyermann",
    19.32,
    "BH Brew",
    "Château Abbey (Weyermann Abbey não encontrado) 1 kg R$ 19,32",
-   "2026-11-16"
+   "2026-11-24"
   ],
   [
    "F|Château Pale Ale|Castle Malting",
    17.69,
    "BH Brew",
    "1 kg R$ 17,69",
-   "2026-11-16"
+   "2026-11-24"
   ],
   [
    "F|Château Cara Gold|Castle Malting",
    18.9,
    "BH Brew",
    "1 kg R$ 18,90",
-   "2026-11-16"
+   "2026-11-24"
   ],
   [
    "F|Château Biscuit|Castle Malting",
@@ -780,7 +780,7 @@
   ],
   [
    "Y|SafLager S-189",
-   45.0,
+   45,
    "BH Brew",
    "sachê 11,5 g R$ 45,00",
    "2026-11-23"
@@ -794,7 +794,7 @@
   ],
   [
    "Y|SafAle T-58",
-   17.0,
+   17,
    "BH Brew",
    "sachê 11,5 g R$ 17,00",
    "2026-11-23"
@@ -845,107 +845,107 @@
    "Y|LalBrew NovaLager",
    39.06,
    "BH Brew",
-   "sachê R$ 39,06",
-   "2026-11-15"
+   "sachê 11 g R$ 39,06",
+   "2026-11-24"
   ],
   [
    "Y|LalBrew Nottingham",
-   27.99,
-   "Piquiri",
-   "sachê R$ 27,99 (BH não tem)",
-   "2026-11-15"
+   31.19,
+   "BH Brew",
+   "sachê 11 g \"a partir de\" R$ 31,19 (Piquiri R$ 27,99)",
+   "2026-11-24"
   ],
   [
    "Y|SafAle WB-06",
    31.5,
    "BH Brew",
-   "sachê \"a partir de\" R$ 31,50 (Piquiri R$ 30,99)",
-   "2026-11-15"
+   "sachê 11,5 g \"a partir de\" R$ 31,50 (Piquiri R$ 30,99)",
+   "2026-11-24"
   ],
   [
    "Y|SafLager S-23",
-   34.99,
-   "Piquiri",
-   "sachê R$ 34,99 (BH não tem)",
-   "2026-11-15"
+   41.2,
+   "BH Brew",
+   "sachê 11,5 g R$ 41,20 (Piquiri R$ 34,99)",
+   "2026-11-24"
   ],
   [
    "Y|AEB Fermoale AY3",
    17.01,
    "BH Brew",
    "sachê R$ 17,01",
-   "2026-11-15"
+   "2026-11-24"
   ],
   [
    "Y|AEB Fermoale AY4",
    18.8,
    "BH Brew",
    "sachê R$ 18,80 (promo, de R$ 19,74)",
-   "2026-11-15"
+   "2026-11-24"
   ],
   [
    "Y|AEB Fermolager W",
    18.5,
    "BH Brew",
-   "sachê R$ 18,50",
-   "2026-11-15"
+   "sachê 11,5 g R$ 18,50",
+   "2026-11-24"
   ],
   [
    "Y|AEB Fermo Kveik SV",
    14.99,
    "Piquiri",
    "sachê 11,5 g R$ 14,99 (promo, de R$ 19,99)",
-   "2026-11-15"
+   "2026-11-24"
   ],
   [
    "Y|AEB Fermoale",
    14.99,
    "Piquiri",
    "sachê 11,5 g R$ 14,99 (promo, de R$ 19,99)",
-   "2026-11-15"
+   "2026-11-24"
   ],
   [
    "Y|AEB Fermoale Bel-Abbey",
    14.99,
    "Piquiri",
    "sachê 11,5 g R$ 14,99 (promo, de R$ 19,99)",
-   "2026-11-15"
+   "2026-11-24"
   ],
   [
    "Y|AEB Fermoale Weisse",
    14.99,
    "Piquiri",
-   "indisponível na Piquiri (sem preço) e não há na BH; preço anterior mantido",
-   "2026-11-15"
+   "FermoAle Weiss indisponível na Piquiri (listava R$ 14,99) e não há na BH; preço anterior mantido",
+   "2026-11-24"
   ],
   [
    "Y|AEB Fermolager Crisp",
    18.99,
    "Piquiri",
    "sachê 11,5 g R$ 18,99 (promo, de R$ 22,99)",
-   "2026-11-15"
+   "2026-11-24"
   ],
   [
    "Y|AEB Fermolager Munich Heritage",
    18.99,
    "Piquiri",
    "sachê 11,5 g R$ 18,99 (promo, de R$ 22,99)",
-   "2026-11-15"
+   "2026-11-24"
   ],
   [
    "Y|AEB Fermo Brew Acid",
    24.99,
    "Piquiri",
    "sachê 11,5 g R$ 24,99 (promo, de R$ 29,99)",
-   "2026-11-15"
+   "2026-11-24"
   ],
   [
    "Y|WLP001 California Ale",
    19.99,
    "Piquiri",
-   "sachê seco 11 g R$ 19,99 (promo, de R$ 44,99)",
-   "2026-11-15"
+   "sachê seco 11 g R$ 19,99 (promo, de R$ 44,99; validade 11/2026)",
+   "2026-11-24"
   ]
  ],
- "updated": "2026-11-23"
+ "updated": "2026-11-24"
 }
